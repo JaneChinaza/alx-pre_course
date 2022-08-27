@@ -1,2 +1,2 @@
 $git merge update_script
-$git pull
+$git add .
